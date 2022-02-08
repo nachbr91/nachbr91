@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a align="center" href = "mailto:ibenitoroig@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
-<a align="center" href="https://www.linkedin.com/in/nachobenitoroig/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+<a align="center" href="https://www.linkedin.com/in/nachobenitoroig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachbr91&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="nachbr91" /></p>
 
